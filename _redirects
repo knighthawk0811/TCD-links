@@ -1,0 +1,8 @@
+# Redirects from what the browser requests to what we serve
+# /short            #long
+# /cis              https://www.tcdupage.org/apps/pages/index.jsp?uREC_ID=3799638&type=d&pREC_ID=2452259&utm_medium=qr&utm_campaign=program_card 301!
+# every link ends with UTM codes 
+# if there's not already a ?  ->   ?utm_medium=qr&utm_campaign=program_card 301!
+# if there's already a ?      ->   &utm_medium=qr&utm_campaign=program_card 301!
+#
+/cis                https://www.tcdupage.org/apps/pages/index.jsp?uREC_ID=3799638&type=d&pREC_ID=2452259&utm_medium=qr&utm_campaign=program_card 301!
